@@ -1,0 +1,7 @@
+# Compiles
+bin/
+
+# Eclipse stuff
+.project
+.settings/
+.classpath
